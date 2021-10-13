@@ -1,0 +1,35 @@
+
+
+body {
+	/*background: url('../images/cookie-monster.jpg');*/
+	/* the follow is the code to have the image display as a full page */
+	background: url('../images/cookie-monster.jpg'); /* the .. in url means to get the image you have to get out frome the css folder and get to the image folder. so it mean to "Get Back" */
+	background-position: center;
+	background-attachment: fixed;
+	-webkit-background-size: cover; /* the next 3 lines are "browser prefixes", they are necessary to include for CSS3 techniques */
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	color :white
+}
+
+#container {
+	background: black;
+	width: 400px;
+	padding :53px;
+	position: fixed;
+}
+h1{
+	font-size: 80px;
+}
+h2{
+	background-color: rgba(32, 235, 224, 0.959);
+	color: black;
+	padding: 5px;
+	border-radius: 10px;
+}
+a{
+	color: rgba(32, 235, 224, 0.959);
+	text-decoration: none; 
+	/*text-decoration removes underline from the links */
+}
