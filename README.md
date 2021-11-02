@@ -40,7 +40,8 @@
 It is a single page proffesional information page which can be used to tell the viewers about your interest,skills,contact information,qualification etc.
 <br>
 <br>
-![Untitled](https://user-images.githubusercontent.com/60666490/139786650-cc2bd8e7-ca29-439a-8de4-42fbb1a58ac2.jpg)
+![Untitled](https://user-images.githubusercontent.com/60666490/139786748-7b23b5e3-f67c-4eec-8a60-ffba9cffd1c7.jpg)
+
 
 <p align="right">(<a href="#Basic-Portfolio-page">back to top</a>)</p>
 
