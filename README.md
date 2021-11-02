@@ -1,7 +1,7 @@
 # Basic-Portfolio-page
 
 <li>A portfolio template was created in order to learn about the making of a portfolio page.</li>
-<li>I created a Single page portfolio which contains all the proffesional information of the user. It was futher used by some of my friends to create their portfolio's.</li>
+<li>I created a Single page portfolio which contains all the professional information of the user. It was further used by some of my friends to create their portfolio's.</li>
 <li>took a Example of a "Cookie Monster" from seasame street in order to make a design,but it can be changed as per the requirements.
 <br>
   <br>
