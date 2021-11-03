@@ -1,8 +1,8 @@
 # Basic-Portfolio-page
 
 <li>A portfolio template was created in order to learn about the making of a portfolio page.</li>
-<li>I created a Single page portfolio which contains all the professional information of the user. It was further used by some of my friends to create their portfolio's.</li>
-<li>took a Example of a "Cookie Monster" from seasame street in order to make a design,but it can be changed as per the requirements.
+<li>I created a single paged portfolio which contains all the professional information of the user. It was further used by some of my friends to create their portfolios.</li>
+<li>Took an example of a "Cookie Monster" from Seasame Street in order to make a design, but it can be changed as per the requirements.
 <br>
   <br>
 
@@ -37,7 +37,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-It is a single page proffesional information page which can be used to tell the viewers about your interest,skills,contact information,qualification etc.
+It is a single page profesional information page which can be used to tell the viewers about your interest,skills,contact information,qualification etc.
 <br>
 <br>
 ![Untitled](https://user-images.githubusercontent.com/60666490/139786748-7b23b5e3-f67c-4eec-8a60-ffba9cffd1c7.jpg)
